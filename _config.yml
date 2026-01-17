@@ -23,7 +23,7 @@ repository               : "Cotbw/Cotbw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://s41.ax1x.com/2026/01/17/pZs5WLT.png"
   name             : "BirdX"
   pronouns         : # example: "he/they"  
   bio              : "一只热爱编程和绘画的鸟"
