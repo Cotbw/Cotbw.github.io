@@ -1,7 +1,7 @@
 ---
 permalink: /markdown/
-title: "Markdown"
-author_profile: false
+title: "写作格式"
+author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
