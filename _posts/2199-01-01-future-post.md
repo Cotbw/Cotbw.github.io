@@ -1,11 +1,9 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: '未来的文章'
+date: 2085-01-14
+permalink: /posts/future-page/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - 何意味
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+不想显示文章就修改`config.yml` 添加 `future: false`. 
