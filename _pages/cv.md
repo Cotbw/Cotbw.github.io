@@ -9,34 +9,57 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
+## **个人介绍**
+我是BirdX(Cotbw)，一只来自Buriwors宇宙的小鸟，很高兴认识你(｡･∀･)ﾉﾞ✧
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### 主要爱好方面
+我热爱**编程**、**绘画**及**玩游戏**! (^ ω ^)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+绘画的话...平时喜欢画一些自己创作的**OC**,有时候会写文章
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+最喜欢的游戏类型是**音乐**游戏，当然我也喜欢各种困难的**平台跳跃**游戏
+
+要说最喜欢的游戏嘛...当然是[vivid/stasis](https://store.steampowered.com/app/2093940/vividstasis/)!当然还有[Arcaea](https://arcaea.lowiro.com/zh/)、[osu!](https://osu.ppy.sh/)等等，平台跳跃类的玩的比较少，但确实很喜欢[Ori](https://www.orithegame.com/blind-forest/)*的(~~[Celeste](https://www.celestegame.com/)没有你)~~*
+
+啊当然，我很喜欢研究**元宇宙**及相关理念，甚至自己拟定了一个独立的宇宙框架，找我聊这方面的话我会很激动的╰(￣ω￣ｏ)
+###  一些其他信息
+ - **MBTI**: IS/NTP不定时切换(lll￢ω￢)
+ - **性格(?**: **社恐**一只，不太会说话，笑点比较奇怪，如果你和我爱好比较相同我可能会很热情( •̀ ω •́ )，前提是你不能踩我雷
+ - **网站主要内容**: 一些**角色设定**和**自己写的文章**，当然可能还有其他的杂七杂八(╹ڡ╹ )
+ - **最喜欢的角色**: **Nichibotsu Eri**、**Hisomeru Dawn**(v/s)、**Tairitsu**(Arcaea)、**澄闪**(明日方舟)
+ - **人称代词**: **He/They**，感谢
+ - **其他网站**: 几乎全网同名，包括外网
+ - **雷点**:  1.**不尊重**他人(包括歧视他人爱好、性取向、宗教信仰等)
+					 2.对他人造成**严重**心理攻击
+					 3.**无端引战**
+然后就没有了，希望我们能有友好的沟通捏♪(´▽｀)
+## **作品介绍**
+### Buriwors宇宙设定
+咕咕咕...以后再写吧( ⓛ ω ⓛ *)
+
+---
+### Bird Buriwos(*鸟界*）
+咕咕咕...以后再写吧( ⓛ ω ⓛ *)
+
+---
+### After Rainstorm(*风雨过后*)
+咕咕咕...以后再写吧( ⓛ ω ⓛ *)
+
+---
+### Human Buriwors(*鸟界-人类世界*)
+咕咕咕...
+
+---
+### Birzthm(*汲音环旅*)
+固古顾...
+
+---
+### RhyXtΔm♪
+呱！呱！
+
+## 宇宙元层介绍
+###### *我不到啊Layercrosser让我写这个我就写了*
+咕唔咕..
   * Sub-skill 2.3
 * Skill 3
