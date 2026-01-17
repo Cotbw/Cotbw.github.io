@@ -61,5 +61,3 @@ redirect_from:
 ## 宇宙元层介绍
 ###### *我不到啊Layercrosser让我写这个我就写了*
 咕唔咕..
-  * Sub-skill 2.3
-* Skill 3
