@@ -13,6 +13,9 @@ main:
     
   - title: "介绍"
     url: /cv/
+
+  - title: "作品"
+    url: /artworks/    
     
   # - title: "CV"
   #   url: /cv-json/
