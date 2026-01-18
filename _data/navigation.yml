@@ -9,7 +9,7 @@
 
 main:
   - title: "文章"
-    url: /year-archive/
+    url: /pages/
     
   - title: "介绍"
     url: /cv/
