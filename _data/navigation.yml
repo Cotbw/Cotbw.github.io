@@ -15,7 +15,7 @@ main:
     url: /cv/
 
   - title: "作品"
-    url: /artworks/    
+    url: /talks/    
     
   # - title: "CV"
   #   url: /cv-json/
