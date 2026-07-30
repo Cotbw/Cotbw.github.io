@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "介绍"
-permalink: /introduction/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
