@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "主页"
 title_separator          : "-"
@@ -28,7 +28,7 @@ author:
   pronouns         : "he/they"  
   bio              : "一只热爱编程和绘画的鸟"
   location         : "Buriwors"
-  employer         : "Unknown University"
+  employer         : "Gensoukyou University"
   uri              : # URL
   email            : "birdx.yinyouren@foxmail.com" 
 
