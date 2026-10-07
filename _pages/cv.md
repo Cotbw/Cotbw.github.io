@@ -122,7 +122,8 @@ redirect_from:
 
 
 ---
-一些小外链：
+###一些小外链：
+
 [东方ThbWiki](https://thbwiki.cc/)
 
 [Arcaea中文Wiki](https://wiki.arcaea.cn/index.php/)
