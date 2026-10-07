@@ -20,9 +20,9 @@ redirect_from:
 
 最喜欢的游戏类型是**音乐**游戏，当然我也喜欢各种困难的**平台跳跃**游戏...另外，(探头)系个普普通通的车万人啦_(:з」∠)_
 
-要说最喜欢的游戏嘛...当然是[vivid/stasis](https://www.hajimeli.net/vividstasis)!当然还有[Arcaea](https://arcaea.lowiro.com/zh/)、[osu!](https://osu.ppy.sh/)、[Milthm](https://milthm.com/)等等。
+要说最喜欢的游戏嘛...当然是[vivid/stasis](https://www.hajimeli.net/vividstasis)!当然还有[Arcaea](https://arcaea.lowiro.com/zh/)、[osu!](https://osu.ppy.sh/)等等。
 平台跳跃类的玩的比较少，但确实很喜欢 ~~(东方被你放到哪里了啊喂)~~
-（最新最热阿卡二卡牌全精通哦，我超爱In Falsus）
+最新最热阿卡二卡牌全成就哦，我超爱[In Falsus](https://infalsus.lowiro.com/zh-hans/)
 
 要说东方最喜欢哪几作，那当然是 东方神灵庙~~神人庙~~、东方地灵殿 和 东方绯想天+非想天则~~(打则死路一条)~~啦
 
@@ -121,6 +121,11 @@ redirect_from:
 进群问题想一想吧～实在不会私下问我或者查一下都可以的说^^;)
 
 
-———
+---
 一些小外链：
-东方thbwiki [点击](https://thbwiki.cc/)
+[东方ThbWiki] (https://thbwiki.cc/)
+[Arcaea中文Wiki] (https://wiki.arcaea.cn/index.php/)
+[百合会] (https://www.yamibo.com/)
+[PRTS明日方舟Wiki] (https://m.prts.wiki/w/)
+[Yukkuri语音生成] (https://offline.yukuuri.moe.page/)
+[InFalsus卡牌攻略] (https://mengleifudge.github.io/InFalsusCalc/) / [实验室] (https://mewcodex.github.io/InFalsusSolver/)
