@@ -123,14 +123,14 @@ redirect_from:
 
 ---
 一些小外链：
-[东方ThbWiki] (https://thbwiki.cc/)
+[东方ThbWiki](https://thbwiki.cc/)
 
-[Arcaea中文Wiki] (https://wiki.arcaea.cn/index.php/)
+[Arcaea中文Wiki](https://wiki.arcaea.cn/index.php/)
 
-[百合会] (https://www.yamibo.com/)
+[百合会](https://www.yamibo.com/)
 
-[PRTS明日方舟Wiki] (https://m.prts.wiki/w/)
+[PRTS明日方舟Wiki](https://m.prts.wiki/w/)
 
-[Yukkuri语音生成] (https://offline.yukuuri.moe.page/)
+[Yukkuri语音生成](https://offline.yukuuri.moe.page/)
 
-[InFalsus卡牌攻略] (https://mengleifudge.github.io/InFalsusCalc/) / [实验室] (https://mewcodex.github.io/InFalsusSolver/)
+[InFalsus卡牌攻略](https://mengleifudge.github.io/InFalsusCalc/) / [实验室](https://mewcodex.github.io/InFalsusSolver/)
