@@ -122,16 +122,24 @@ redirect_from:
 
 
 ---
-###一些小外链：
+**一些小外链：**
+[百合会](https://www.yamibo.com/)
 
-[东方ThbWiki](https://thbwiki.cc/)
+[百合资源分享](https://adachi.love/?)
 
 [Arcaea中文Wiki](https://wiki.arcaea.cn/index.php/)
 
-[百合会](https://www.yamibo.com/)
+[InFalsus卡牌攻略](https://mengleifudge.github.io/InFalsusCalc/) / [实验室](https://mewcodex.github.io/InFalsusSolver/)
+
+[InFalsus哈农练习](https://frankhuex.github.io/InFalsusHanon/index.html)
 
 [PRTS明日方舟Wiki](https://m.prts.wiki/w/)
 
+[东方ThbWiki](https://thbwiki.cc/)
+
 [Yukkuri语音生成](https://offline.yukuuri.moe.page/)
 
-[InFalsus卡牌攻略](https://mengleifudge.github.io/InFalsusCalc/) / [实验室](https://mewcodex.github.io/InFalsusSolver/)
+[非想天则指南](https://wiki.514.live/)
+
+[魔裁立绘拼拼](http://manosabamoddoc.fuyumi.xyz/character_editor/character_editor.html)
+
